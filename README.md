@@ -1,4 +1,4 @@
-![picture](https://github.com/anilasalman85/anilasalman85/assets/137329888/d1f35f5d-bfab-45ab-92fa-0df470624453)
+![IMG-20230803-WA0012](https://github.com/anilasalman85/anilasalman85/assets/137329888/537c8bc1-5976-4f6a-a1f0-79ffb4e5bb62)
 
 <h1 align="center">Hi 👋, I'm Anila Salman</h1>
 <h3 align="center">I am a dedicated computer science student with a passion for technology and problem-solving. I am eager to contribute my skills to innovative projects. My goal is to make a positive impact through technology while constantly learning and growing in this dynamic field. Let's connect and collaborate on exciting opportunities in the world of computer science!</h3>
