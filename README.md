@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aneylasalman85@gmail.com**
 
-- 📄 Know about my experiences [CV](CV)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
