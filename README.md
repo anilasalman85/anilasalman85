@@ -1,7 +1,7 @@
 ![Header](https://github.com/anilasalman85/anilasalman85/assets/137329888/0d0c0f29-590e-42f5-ad3f-5890b6702d16)
 
 <h1 align="center">Hi , I'm Anila Salman</h1>
-<h3 align="center">A curious and dedicated computer science student, passionate about building creative solutions and exploring new ideas through technology.</h3>
+<h3 align="center">A curious and dedicated Computer Science Graduate, passionate about building creative solutions and exploring new ideas through technology.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anilasalman85&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -62,13 +62,28 @@
 ---
 ##  Certifications
 
-- <a href="https://coursera.org/share/3e60eddb79be3e5294089d8fe6f951f0" target="_blank"><strong>Database Design with SQL Server Management</strong></a>  
-- <a href="https://coursera.org/share/c72438fb7be4986ffba77ebe3036aae3" target="_blank"><strong>Relational Database Design Offered by University of Colorado Boulder </strong></a>  
-- <a href="https://coursera.org/share/3d6f291e85d9eeedc75ac6ade067a5c9" target="_blank"><strong>Flutter Development by Google Cloud </strong></a>  
-- <a href="https://coursera.org/share/d1c44f80cdbadd7bad43f0104e88176d" target="_blank"><strong>Introduction to Front-End Development with ReactJS</strong></a>  
-- <a href="https://coursera.org/share/1a1dcbaa527557ce4e69f51cc1325144" target="_blank"><strong>Web Development in JavaScript</strong></a>  
-- <a href="https://coursera.org/share/7811666748332cce190c113987e14eeb" target="_blank"><strong>Introduction to Python – Guessing Game Project</strong></a>  
-- <a href="https://coursera.org/share/a598a289af754a5262d912f5989843c5" target="_blank"><strong>Canva Design Certificate</strong></a>
+
+
+- **Database Design with SQL Server Management** – Coursera  
+  <a href="#" target="_blank">🔗 View Certificate</a>
+
+- **Relational Database Design** – Offered by University of Colorado Boulder (Coursera)  
+  <a href="#" target="_blank">🔗 View Certificate</a>
+
+- **Flutter Development** – Google Cloud Coursera  
+  <a href="#" target="_blank">🔗 View Certificate</a>
+
+- **Introduction to Front-End with ReactJS**  
+  <a href="#" target="_blank">🔗 View Certificate</a>
+
+- **Web Development in JavaScript**  
+  <a href="#" target="_blank">🔗 View Certificate</a>
+
+- **Introduction to Python – Guessing Game Project**  
+  <a href="#" target="_blank">🔗 View Certificate</a>
+
+- **Canva Design Certificate** – Coursera  
+  <a href="#" target="_blank">🔗 View Certificate</a>
 
 
 
