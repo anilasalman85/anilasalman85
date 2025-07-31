@@ -63,20 +63,20 @@
 ##  Certifications
 
 <ul>
-  <li><strong>Database Design with SQL Server Management</strong> – Coursera  
-    <a href="https://coursera.org/share/3e60eddb79be3e5294089d8fe6f951f0" target="_blank" rel="noopener noreferrer"> View Certificate</a></li>
-  <li><strong>Relational Database Design</strong> – University of Colorado Boulder (Coursera)  
-    <a href="https://coursera.org/share/c72438fb7be4986ffba77ebe3036aae3" target="_blank" rel="noopener noreferrer"> View Certificate</a></li>
-  <li><strong>Flutter Development</strong> – Google Cloud Coursera  
-    <a href="https://coursera.org/share/3d6f291e85d9eeedc75ac6ade067a5c9" target="_blank" rel="noopener noreferrer"> View Certificate</a></li>
-  <li><strong>Introduction to Front-End with ReactJS</strong>  
-    <a href="https://coursera.org/share/d1c44f80cdbadd7bad43f0104e88176d" target="_blank" rel="noopener noreferrer"> View Certificate</a></li>
-  <li><strong>Web Development in JavaScript</strong>  
-    <a href="https://coursera.org/share/1a1dcbaa527557ce4e69f51cc1325144" target="_blank" rel="noopener noreferrer"> View Certificate</a></li>
-  <li><strong>Introduction to Python – Guessing Game Project</strong>  
-    <a href="https://coursera.org/share/7811666748332cce190c113987e14eeb" target="_blank" rel="noopener noreferrer"> View Certificate</a></li>
-  <li><strong>Canva Design Certificate</strong> – Coursera  
-    <a href="https://coursera.org/share/a598a289af754a5262d912f5989843c5" target="_blank" rel="noopener noreferrer"> View Certificate</a></li>
+  <li><strong>Database Design with SQL Server Management</strong> by Coursera - 
+    <a href="https://coursera.org/share/3e60eddb79be3e5294089d8fe6f951f0" target="_blank" rel="noopener noreferrer">  View Certificate</a></li>
+  <li><strong>Relational Database Design</strong> offered by University of Colorado Boulder -
+    <a href="https://coursera.org/share/c72438fb7be4986ffba77ebe3036aae3" target="_blank" rel="noopener noreferrer">  View Certificate</a></li>
+  <li><strong>Flutter Development</strong> by Google Cloud -
+    <a href="https://coursera.org/share/3d6f291e85d9eeedc75ac6ade067a5c9" target="_blank" rel="noopener noreferrer">  View Certificate</a></li>
+  <li><strong>Introduction to Front-End with ReactJS - </strong>  
+    <a href="https://coursera.org/share/d1c44f80cdbadd7bad43f0104e88176d" target="_blank" rel="noopener noreferrer">  View Certificate</a></li>
+  <li><strong>Web Development in JavaScript - </strong>  
+    <a href="https://coursera.org/share/1a1dcbaa527557ce4e69f51cc1325144" target="_blank" rel="noopener noreferrer">  View Certificate</a></li>
+  <li><strong>Introduction to Python – Guessing Game Project - </strong>  
+    <a href="https://coursera.org/share/7811666748332cce190c113987e14eeb" target="_blank" rel="noopener noreferrer">  View Certificate</a></li>
+  <li><strong>Canva Design Certificate - </strong>
+    <a href="https://coursera.org/share/a598a289af754a5262d912f5989843c5" target="_blank" rel="noopener noreferrer">  View Certificate</a></li>
 </ul>
 
 
