@@ -21,8 +21,8 @@
   <a href="https://linkedin.com/in/anila-salman-48292b282" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/aneyla_salman" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<!--  <a href="https://instagram.com/aneyla_salman" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />-->
   </a>
 </p>
 
@@ -49,6 +49,9 @@
 
 ###  Tools
 
+![VS Code](https://img.shields.io/badge/-VS%20Code-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
